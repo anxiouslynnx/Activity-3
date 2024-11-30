@@ -1,5 +1,5 @@
 {
-  "name": "Activity2",
+  "name": "Activity 3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,10 +14,9 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
-    "Activity2": "file:",
     "gsap": "^3.11.4",
     "lil-gui": "^0.17.0",
     "three": "^0.148.0",
-    "vercel": "^39.0.2"
+    "vercel": "^39.1.2"
   }
 }
