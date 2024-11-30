@@ -131,7 +131,7 @@ const animateSnow = () => {
 
     for (let i = 0; i < snowCount; i++) {
         positions[i * 3] -= 0.01;
-        positions[i * 3 + 1] -= 0.07;
+        positions[i * 3 + 1] -= 0.06;
 
         // Reset snowflakes that fall below the ground
         if (positions[i * 3 + 1] < 0) {
